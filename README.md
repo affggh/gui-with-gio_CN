@@ -17,36 +17,36 @@
 
 ## 背景
 
-命令行固然很棒，但我们还是需要面对现实，95% 的用户都不是高级用户。他们想要按下按钮，切换开关，然后简单地继续他们的生活。 [Gio](https://gioui.org/) - 一个很棒的工具包，可以构建令人惊叹的美丽、快如闪电、灵活的界面，满足 _your_ 的需求.
+命令行固然很棒，但我们还是需要面对现实，95% 的用户都不是高级用户。他们想要按下按钮，切换开关，然后简单地继续他们的生活。 [Gio](https://gioui.org/) - 一个很棒的工具包，可以构建令人惊叹的美丽、快如闪电、灵活的界面，满足 _您的_ 需求.
 
 ### 三部曲
 
 要使接口正常工作，它必须是:
 
 1. **美观**
-   - No one will use an app that looks like #$%$#!"#
+   - 没有人会使用看起来像这样的应用程序 #$%$#!"#
 2. **迅速**
-   - Snappy, instant, responsive, immediate, direct
-   - Quick to code, easy to test
+   - 敏捷、即时、反应灵敏、立即、直接
+   - 快速编码，易于测试
 3. **灵活**
-   - Fit _your_ needs, _your_ ideas, _your_ principles
-   - Not impose it's will on you
-   - Simple should be simple, complex should be allowed
+   - 适合 _您的_ 需求, _您的_ 想法, _您的_ 原则
+   - 不将其意志强加于你
+   - 简单就应该简单，复杂也可以被允许
 
-1 and 2 and 3. Beautiful AND Fast AND Flexible. No compromises.
+1 和 2 和 3. 美观迅速又灵活. 而不妥协.
 
-### Just do it
+### 做就是了
 
-_But I don't know how_
+_但是要怎么做_
 
-Agreed, the [official Gio website](https://gioui.org) is a bit advanced. [Nice repos exist](https://github.com/gioui) with many examples, but where to start? If you're a practical learner, you simply want to get started, code something simple, and learn as you go along. That's me at least, and if you're like that too, we're soulmates.
+理解, [Gio官方页面](https://gioui.org) 更先进一些. [一些gio repos](https://github.com/gioui) 有很多的示例, 但从哪里开始? 如果你是一个注重实践的学习者, 您只是想开始，编写一些简单的代码，然后边学习边写. 至少我是这样，如果你也是这样，我们就是心有灵犀。
 
-So let's just do exactly that. The point here is to build something simple, from the ground up, and touch upon concepts and ideas as we go along. Every step moves us forward, and every new feature builds on something we've touched upon before. The goal is to change the initial _I don't know_ to a more optimistic _I don't know how - yet_.
+所以我们实际开始吧. 这里的重点是从头开始构建一些简单的东西，并在我们进行过程中触及概念和想法. 每一步都推动我们前进，每一个新功能都建立在我们之前接触过的东西之上. 目标是改变最初的 _我不知道_ 以更乐观的态度 _至少是现在_.
 
-Come along for the ride!
+一起去努力吧!
 
-#### Disclaimer
+#### 免责声明
 
-I really like Gio, I like the people behind it, I sponsor it financially, and I want it to succeed. But I´m by no means an expert. My goal is simply to share what I've learned in the hope that you find it useful. Hope that works.
+我真的很喜欢 Gio, 我喜欢它背后的人，我在经济上赞助它，我希望它成功. 但我绝不是专家. 我的目标只是分享我所学到的知识，并且希望对您有用. 希望这会有用.
 
-Cheers
+加油
