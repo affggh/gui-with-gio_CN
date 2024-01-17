@@ -2,32 +2,33 @@
 #go, #golang, #gui, #gioui
 ```
 
-你想找一个 GUI. 这就来了.
+你想找一个 GUI， 这里就有一个。
 
 你知道 Go 有一个非常棒的 GUI 库叫做 [Gio](https://gioui.org/)吗? 在 [10部分教学](https://jonegil.github.io/gui-with-gio/egg_timer/) 中我们将完全从头开始, 不需要任何基础, 
 并构建一个独立的 GUI 应用程序:
 
-![Screenshot of egg_timer](egg_timer/egg_timer.gif)
+![煮蛋计时器](egg_timer/egg_timer.gif)
 
-[Get started - Time the egg](https://jonegil.github.io/gui-with-gio/egg_timer/)
+[准备开始 - 煮蛋计时器](https://jonegil.github.io/gui-with-gio/egg_timer/)
 
-## And there's more
-The first tutorial will get you started. But if your needs are more advanced, continue with [a more advanced app](https://jonegil.github.io/gui-with-gio/teleprompter/) where we build a Teleprompter that adds animation and reacts to user input, both keyboard shortcut keys and mouse gestures.
+## 还有更多
 
-## Background
+第一个教程将帮助您入门。 但如果您的需求更高级，请继续 [一个更高级的app](https://jonegil.github.io/gui-with-gio/teleprompter/) 我们构建了一个提词器，它添加动画并对用户输入（包括键盘快捷键和鼠标手势）做出反应。
 
-Command-lines are great and all, but let's face it, 95% of users aren't power users. They want buttons to push, toggles to switch and simply get on with their lives. Enter [Gio](https://gioui.org/) - a great toolkit to build stunningly beautiful, lightning fast, flexible interfaces that meet _your_ needs.
+## 背景
 
-### Three out of three
+命令行固然很棒，但我们还是需要面对现实，95% 的用户都不是高级用户。他们想要按下按钮，切换开关，然后简单地继续他们的生活。 [Gio](https://gioui.org/) - 一个很棒的工具包，可以构建令人惊叹的美丽、快如闪电、灵活的界面，满足 _your_ 的需求.
 
-For an interface to work, it must be:
+### 三部曲
 
-1. **Beautiful**
+要使接口正常工作，它必须是:
+
+1. **美观**
    - No one will use an app that looks like #$%$#!"#
-2. **Fast**
+2. **迅速**
    - Snappy, instant, responsive, immediate, direct
    - Quick to code, easy to test
-3. **Flexible**
+3. **灵活**
    - Fit _your_ needs, _your_ ideas, _your_ principles
    - Not impose it's will on you
    - Simple should be simple, complex should be allowed
