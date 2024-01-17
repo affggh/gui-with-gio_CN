@@ -2,9 +2,10 @@
 #go, #golang, #gui, #gioui
 ```
 
-You want a GUI. Of course you do.
+你想找一个 GUI. 这就来了.
 
-Did you know that Go has a great GUI library called [Gio](https://gioui.org/)? In a [10-part tutorial](https://jonegil.github.io/gui-with-gio/egg_timer/) we will start completely from scratch, with zero background required, and build a self contained GUI application:
+你知道 Go 有一个非常棒的 GUI 库叫做 [Gio](https://gioui.org/)吗? 在 [10部分教学](https://jonegil.github.io/gui-with-gio/egg_timer/) 中我们将完全从头开始, 不需要任何基础, 
+并构建一个独立的 GUI 应用程序:
 
 ![Screenshot of egg_timer](egg_timer/egg_timer.gif)
 
